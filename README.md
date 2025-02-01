@@ -1,1 +1,3 @@
-# calculadora.alterada
+# Calculadora modificada #
+# Talento tech #
+# Seminário integrador #
